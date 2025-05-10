@@ -1,11 +1,11 @@
-      [{
+      [
+        {
           "menuBar": [
-          { "id": 1, "title": "pic/roseblue.jpg"},
-          { "id": 2, "title": "pic/rosered.jpg"},
-          { "id": 3, "title": "pic/lion.jpg"},
-          { "id": 4, "title": "pic/bird.jpg"},
-          { "id": 5, "title": "pic/bird1.jpg"},
-          
+          { "id": 1, "title": "Fashion"},
+          { "id": 2, "title": "Electronic"},
+          { "id": 3, "title": "Hames&fuction"},
+          { "id": 4, "title": "Toy"},
+          { "id": 5, "title": "image"} 
         ]
       }
       ]
